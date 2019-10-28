@@ -52,15 +52,17 @@ It is an object that sends a payload that allows json encripted data to be sent 
 
 7. Which of the games API routes does the front-end application consume (i.e. make requests to)?
 
-
+.post ?
 
 8. What are we using the [MongoDB Driver](http://mongodb.github.io/node-mongodb-native/) for?
 
-
+Its the database emulator effictively?
 
 
 ## Extension
 
 Why do we need to use [`ObjectId`](https://mongodb.github.io/node-mongodb-native/api-bson-generated/objectid.html) from the MongoDB driver?
+
+
 
 Add to your diagram the dataflow for removing a game.
